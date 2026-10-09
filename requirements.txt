@@ -1,0 +1,21 @@
+# Langchain Core 
+langchain
+langchain-core
+
+# gemini
+langchain-google-genai
+google-generativeai
+
+# hugging face
+langchain-huggingface
+transformers
+huggingface-hub
+# env 
+python-dotenv
+
+# web document loading
+beautifulsoup4
+
+# machine learning utils
+numpy
+scikit-learn
